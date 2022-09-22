@@ -1,1 +1,1 @@
-[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/)
+<h1> Website for the Politics Roleplay Discord Server </h1>
