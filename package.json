@@ -1,0 +1,23 @@
+{
+  "name": "politics-rp",
+  "version": "1.0.0",
+  "description": "website for the politics-rp Discord server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaylin-8bit/politics-rp-website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shaylin-8bit/politics-rp-website/issues"
+  },
+  "homepage": "https://github.com/Shaylin-8bit/politics-rp-website#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
