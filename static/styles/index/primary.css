@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: var(--bg);
+    font-family: 'Times New Roman', serif;
+}
+
+p, h1, h2, h3 {
+    text-align: center;
+    color: var(--light);
+}
+
+button {
+    border: none;
+    color: var(--light);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: var(--tan);
+}
