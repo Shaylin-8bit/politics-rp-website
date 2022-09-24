@@ -9,6 +9,15 @@ p, h1, h2, h3 {
     color: var(--light);
 }
 
+.main-section {
+    min-height: 50vh;
+    display: none;
+}
+
+.main-section.active {
+    display: block;
+}
+
 #kings-letter {
     margin: auto;
     width: 40vw;
