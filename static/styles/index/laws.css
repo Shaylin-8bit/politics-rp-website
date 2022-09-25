@@ -1,0 +1,12 @@
+#law-wrapper {
+    margin: auto;
+    text-align: left;
+    width: 60vw;
+    color: var(--light);
+}
+
+@media screen and (max-width: 600px) {
+    #law-wrapper {
+        width: 90vw;
+    }
+}

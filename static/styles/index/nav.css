@@ -31,15 +31,15 @@ nav .icon {
 
 
 @media screen and (max-width: 600px) {
-    nav button:not(:first-child) {display: none;}
     nav button.icon {
         float: right;
         display: block;
     }
-}
 
-@media screen and (max-width: 600px) {
-    nav.responsive {position: relative;}
+    nav.responsive {
+        position: relative;
+    }
+
     nav.responsive .icon {
         position: absolute;
         right: 0;
